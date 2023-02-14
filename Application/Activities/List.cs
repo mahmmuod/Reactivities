@@ -1,5 +1,4 @@
-﻿using System.Diagnostics;
-using MediatR;
+﻿using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
 using Activity = Domain.Activity;
